@@ -4,6 +4,21 @@ Based on Noto Sans Simplified Chinese, Arabic fonts are added from Noto Sans Ara
 ## Source
 Fonts are downloaded from https://fonts.google.com/noto/
 
+## About mixing
+
+## About mixing
+Following five files are from NotoSans-Arabic while other 251 files are from NotoSans-simplified chinese
+
+* 1536-1791.pbf
+* 1792-2047.pbf
+* 2048-2303.pbf
+* 64512-64767.pbf
+* 64768-65023.pbf
+
+We miss Arabic fonts #64336-64449, 64467-64831, 65136-65276 and 65536-66011.
+If needed, we may work with two source files to make a single file to be exported into PBF.
+
+
 ## License of Noto Fonts
 Open Font License
 
@@ -13,7 +28,6 @@ Copyright 2012 Google Inc. All Rights Reserved.
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
-
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
