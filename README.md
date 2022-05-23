@@ -1,23 +1,11 @@
 # noto-SCA
-Based on Noto Sans Simplified Chinese, Arabic fonts are added from Noto Sans Arabic.
+Noto Sans Simplified Chinese, Arabic fonts, and others
 
 ## Source
 Fonts are downloaded from https://fonts.google.com/noto/
 
-## About mixing
-
-## About mixing
-Following five files are from NotoSans-Arabic while other 251 files are from NotoSans-simplified chinese
-
-* 1536-1791.pbf
-* 1792-2047.pbf
-* 2048-2303.pbf
-* 64512-64767.pbf
-* 64768-65023.pbf
-
-We miss Arabic fonts #64336-64449, 64467-64831, 65136-65276 and 65536-66011.
-If needed, we may work with two source files to make a single file to be exported into PBF.
-
+## List of the fonts
+Noto Sans Arabic (condensed, extra condensed, semicondensed, normal), Noto Sans Japanese, Noto Sans Korea, Noto Sans Simplified Chinese
 
 ## License of Noto Fonts
 Open Font License
