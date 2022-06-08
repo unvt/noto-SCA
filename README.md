@@ -5,7 +5,10 @@ Noto Sans Simplified Chinese, Arabic fonts, and others
 Fonts are downloaded from https://fonts.google.com/noto/
 
 ## List of the fonts
-Noto Sans Arabic (condensed, extra condensed, semicondensed, normal), Noto Sans Japanese, Noto Sans Korea, Noto Sans Simplified Chinese
+Noto Sans Arabic (condensed, extra condensed, semicondensed, normal), Noto Sans Japanese, Noto Sans Korea, Noto Sans Simplified Chinese.  
+Each font is in the **01-font** directory.  
+(02-mix is a test of font mixture, but it does not work well.)
+
 
 ## License of Noto Fonts
 Open Font License
